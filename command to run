@@ -1,0 +1,3 @@
+  $ pip install emailSpoofDetection
+
+  $ python3 spoofdet.py /path/to/txt file
